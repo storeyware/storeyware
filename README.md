@@ -1,9 +1,19 @@
-# Nathan Storey
-## storeyware
+# 🧙‍♂️ Nathan Storey
 
-**'Student at Davenport University - Computer Science, A.I. Specialization'**
+🪄 **Student at Davenport University - Computer Science, A.I. Specialization**
 
-I am studying computer science at Davenport University with a specialization in artificial intelligence. I'm currently finishing up my Junior year and plan on going for my Masters post-grad. Currently, I'm working alongside varioius agencies in association with the Cybercorps Scholarship for Service program which begins in the classroom, continues with an internship in the summer of 2023, and continues after my April 2024 graduation as a full time position in the workforce. My code has a focus on readability, a reflection of my background in illustration and graphic design.
+I am studying computer science at Davenport University with a specialization in artificial intelligence. I'm currently finishing up my Junior year and plan on going for my Masters post-grad. Currently, I'm working alongside various agencies in association with the Cybercorps Scholarship for Service program which begins in the classroom, continues with an internship in the summer of 2023, and extends after my April 2024 graduation as a full-time position in the workforce. My code has a focus on readability, a reflection of my background in illustration and graphic design.
+
+---
+
+### :star: Languages and Tools
+<img align="left" alt="Java" width="50px" style="padding0right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding0right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding0right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding0right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding0right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+<img align="left" alt="Java" width="50px" style="padding0right:10px;" src="https://i.pinimg.com/originals/27/12/43/2712438ba3d5c24804f04df79dd3db39.png"/>
+
 
 <!--
 **storeyware/storeyware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
